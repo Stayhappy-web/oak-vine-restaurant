@@ -25,7 +25,7 @@ A modern, responsive restaurant website built with React and Vite.
 
 ## Live Demo
 
-Coming Soon
+https://oak-n-vine-restaurant.vercel.app/
 
 ## Installation
 
